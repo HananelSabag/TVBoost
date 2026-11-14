@@ -1,0 +1,5 @@
+# Per-PC data: undo logs, last IP, reports
+data/
+reports/
+# Local pictures
+wallpapers/
